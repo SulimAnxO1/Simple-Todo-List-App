@@ -1,6 +1,6 @@
 # 📝✅ Simple To-Do List App
 
-A clean and minimal **To-Do List App** built using HTML, CSS, and JavaScript. Easily add, complete, and delete your daily tasks — all saved locally using **localStorage** so nothing gets lost!
+A clean and minimal **To-Do** **List** **App** built using **HTML**, **CSS**, and **JavaScript**. Easily add, complete, and delete your daily tasks. All saved locally using **localStorage** so nothing gets lost!
 
 ---
 
